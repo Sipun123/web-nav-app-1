@@ -3,6 +3,6 @@
 <html>
 <body>
 	<jsp:include page="menu.jsp"></jsp:include>
-	<h2>Hello World!</h2>
+	<h2>Hello World! How are you?</h2>
 </body>
 </html>
